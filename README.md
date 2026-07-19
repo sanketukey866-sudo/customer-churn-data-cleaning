@@ -1,8 +1,7 @@
-## 🤖 Task 3: Model Building
+## 🚀 Task 4: Final Model & Prediction
 
-- Logistic Regression Model
-- Train-Test Split
-- Accuracy Score
-- Classification Report
+- Model saved using joblib
+- Sample prediction performed
+- Ready for deployment
 
-✅ Task 3 Completed
+✅ Task 4 Completed
