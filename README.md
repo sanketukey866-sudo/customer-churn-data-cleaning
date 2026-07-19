@@ -1,8 +1,8 @@
-## 📊 Task 2: Exploratory Data Analysis (EDA)
+## 🤖 Task 3: Model Building
 
-- Data visualization using matplotlib & seaborn
-- Correlation heatmap
-- Distribution plots
-- Count plots
+- Logistic Regression Model
+- Train-Test Split
+- Accuracy Score
+- Classification Report
 
-✅ Task 2 Completed
+✅ Task 3 Completed
